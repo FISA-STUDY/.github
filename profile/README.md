@@ -91,9 +91,9 @@ Woori FISA 팀의 레포지토리 관리 페이지입니다.
 
 <div align="center">
 
-![Commits This Month](https://img.shields.io/badge/Commits%20This%20Month-45+-blue?style=for-the-badge&logo=github)
-![Contributors](https://img.shields.io/badge/Contributors-4-green?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Open%20Issues-2-red?style=for-the-badge&logo=github)
+![Commits This Month](https://img.shields.io/badge/Commits%20This%20Month-45+-blue?style=plastic&logo=github)
+![Contributors](https://img.shields.io/badge/Contributors-4-green?style=plastic&logo=github)
+![Issues](https://img.shields.io/badge/Open%20Issues-2-red?style=plastic&logo=github)
 
 </div>
 
